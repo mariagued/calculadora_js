@@ -11,7 +11,7 @@ Além disso, você será desafiado a **adicionar duas funcionalidades extras**:
 1. **Cálculo de porcentagem**
 2. **Geração de número aleatório dentro de um intervalo definido pelo usuário**
 
----
+
 
 ## ✅ Funcionalidades
 
@@ -23,14 +23,6 @@ Além disso, você será desafiado a **adicionar duas funcionalidades extras**:
 - [x] **Número aleatório entre dois valores**
 - [x] Exibição de resultados com **template strings**
 
----
-
-## 📄 Estrutura do Projeto
-calculadora/
-├── index.html
-└── script.js
-
----
 
 ## 🚀 Como Usar
 
@@ -40,7 +32,6 @@ calculadora/
 4. Escolha a operação desejada (opções de 1 a 6).
 5. Insira os valores solicitados e veja o resultado formatado de forma clara e amigável.
 
----
 
 ## 🧠 Instruções de Desenvolvimento
 
@@ -68,14 +59,14 @@ Crie uma **função arrow** chamada `gerarNumeroAleatorio()` que:
   `Math.random() * (max - min) + min`
 - Exibe o número gerado com uma mensagem clara.
 
----
+
 
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5
 - JavaScript (ES6+)
 
----
+
 
 ## 🎯 Objetivo da Atividade
 Esta atividade visa consolidar conhecimentos sobre:
@@ -83,8 +74,6 @@ Esta atividade visa consolidar conhecimentos sobre:
 - Manipulação de entrada e saída com prompt/alert
 - Operações matemáticas e uso de Math.random()
 - Boas práticas como uso de const, let e template strings
-
----
 
 
 ## ✅ Conclusão
